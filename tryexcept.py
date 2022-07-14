@@ -1,3 +1,5 @@
+"""Pythonのtry〜except文について記述"""
+
 
 def try_except():
     print('---try_except start')
